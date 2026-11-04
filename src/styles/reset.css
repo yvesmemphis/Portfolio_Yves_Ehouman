@@ -1,0 +1,9 @@
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: auto; background: #080817; }
+body { margin: 0; min-width: 320px; background: #080817; color: #f2f0ed; font-family: 'DM Sans', Arial, sans-serif; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+button, a { color: inherit; font: inherit; }
+button { cursor: pointer; }
+a { text-decoration: none; }
+img { display: block; max-width: 100%; }
+::selection { color: #080817; background: #c3a7ff; }
+:focus-visible { outline: 2px solid #b598ff; outline-offset: 4px; }

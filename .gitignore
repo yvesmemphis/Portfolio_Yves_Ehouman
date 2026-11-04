@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env*
+!.env.example
+
+# Optional local media and browser artifacts
+playwright-report/
+test-results/
